@@ -1,5 +1,3 @@
-Fylo data storage component
-
 ![Design preview](./design/desktop-preview.jpg)
 
 # Overview
