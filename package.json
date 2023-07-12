@@ -1,0 +1,15 @@
+{
+  "name": "fylo-data-storage-component-master",
+  "version": "1.0.0",
+  "description": "My solution to this Front End Mentor's solution",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "George",
+  "license": "MIT",
+  "devDependencies": {
+    "node-sass": "^9.0.0",
+    "sass": "^1.63.6"
+  }
+}

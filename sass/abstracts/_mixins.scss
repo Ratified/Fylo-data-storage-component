@@ -1,0 +1,11 @@
+@mixin center-element-using-grid{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+
+@mixin center-element-using-flexbox{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
